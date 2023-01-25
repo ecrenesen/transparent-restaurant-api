@@ -1,0 +1,166 @@
+{
+    "vegetarian": [
+        {
+            "id": 2,
+            "name": "Pasta with marinara sauce and vegetables",
+            "ingredients": [
+                {
+                    "name": "Pasta",
+                    "quantity": 115,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Marinara sauce",
+                    "quantity": 120,
+                    "quantity_type": "millilitre"
+                },
+                {
+                    "name": "Vegetables",
+                    "quantity": 240,
+                    "quantity_type": "gram"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Vegetarian stir-fry with tofu",
+            "ingredients": [
+                {
+                    "name": "Tofu",
+                    "quantity": 115,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Rice",
+                    "quantity": 120,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Vegetables",
+                    "quantity": 240,
+                    "quantity_type": "gram"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Fruit salad with mixed berries and yogurt",
+            "ingredients": [
+                {
+                    "name": "Mixed berries",
+                    "quantity": 240,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Yogurt",
+                    "quantity": 120,
+                    "quantity_type": "millilitre"
+                }
+            ]
+        }
+    ],
+    "vegan": [
+        {
+            "id": 8,
+            "name": "Vegetarian stir-fry with tofu",
+            "ingredients": [
+                {
+                    "name": "Tofu",
+                    "quantity": 115,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Rice",
+                    "quantity": 120,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Vegetables",
+                    "quantity": 240,
+                    "quantity_type": "gram"
+                }
+            ]
+        }
+    ],
+    "both": [
+        {
+            "id": 2,
+            "name": "Pasta with marinara sauce and vegetables",
+            "ingredients": [
+                {
+                    "name": "Pasta",
+                    "quantity": 115,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Marinara sauce",
+                    "quantity": 120,
+                    "quantity_type": "millilitre"
+                },
+                {
+                    "name": "Vegetables",
+                    "quantity": 240,
+                    "quantity_type": "gram"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Vegetarian stir-fry with tofu",
+            "ingredients": [
+                {
+                    "name": "Tofu",
+                    "quantity": 115,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Rice",
+                    "quantity": 120,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Vegetables",
+                    "quantity": 240,
+                    "quantity_type": "gram"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Fruit salad with mixed berries and yogurt",
+            "ingredients": [
+                {
+                    "name": "Mixed berries",
+                    "quantity": 240,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Yogurt",
+                    "quantity": 120,
+                    "quantity_type": "millilitre"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Vegetarian stir-fry with tofu",
+            "ingredients": [
+                {
+                    "name": "Tofu",
+                    "quantity": 115,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Rice",
+                    "quantity": 120,
+                    "quantity_type": "gram"
+                },
+                {
+                    "name": "Vegetables",
+                    "quantity": 240,
+                    "quantity_type": "gram"
+                }
+            ]
+        }
+    ]
+}
